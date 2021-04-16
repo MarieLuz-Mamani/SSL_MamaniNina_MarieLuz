@@ -1,3 +1,6 @@
-# SSL_MamaniNina_MarieLuz
+# Trabajo Práctico n° 0 - Primeros pasos en Github, Compilador, IDE
 
-Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes.
+
+Escribir un programa muy simple, por ejemplo un programa que imprima “Hola mundo”.
+Familiarizarse con los comandos de git.
+
